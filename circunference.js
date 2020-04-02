@@ -71,8 +71,7 @@ class Circunference {
 
 myCircle = new Circunference(1,-3,5);
 
-console.log(myCircle.toStringOrdinaryLatex());
-
-for(let i = 0; i < myCircle.generalToOrdinaryLatexStrings().length; i++) {
-	console.log(myCircle.generalToOrdinaryLatexStrings()[i]);
-}
+// get container
+var container = document.getElementsByClassName("container")[0];
+var textNode = document.createTextNode("\\[" + myCircle.toStringOrdinaryLatex() + "\\]");
+container.appendChild(textNode);
