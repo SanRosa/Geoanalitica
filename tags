@@ -1,0 +1,47 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/e0a976d7/
+Circunference	circunference.js	/^class Circunference {$/;"	c
+Circunferencia	circunferenciaordinaria.html	/^		<h1>Circunferencia<\/h1>$/;"	h
+Circunferencia	videos.html	/^		<h2>Circunferencia<\/h2>$/;"	i
+Ejercicios.	ejercicios.html	/^		<h1>Ejercicios.<\/h1>$/;"	h
+Elipse	videos.html	/^		<h2>Elipse<\/h2>$/;"	i
+Geometria Analitica	index.html	/^		<h1>Geometria Analitica<\/h1>$/;"	h
+Geometria Analitica	videos.html	/^		<h1>Geometria Analitica<\/h1>$/;"	h
+PDFS	pdfs.html	/^		<h1>PDFS<\/h1>$/;"	h
+Parabola	parabola.html	/^		<h1>Parabola<\/h1>$/;"	h
+Parabola	parabola.js	/^class Parabola {$/;"	c
+Parábola	videos.html	/^		<h2>Parábola<\/h2>$/;"	i
+Secciones Cónicas	videos.html	/^		<h2>Secciones Cónicas<\/h2>$/;"	i
+constructor	circunference.js	/^	constructor(h, k, radius) {$/;"	m	class:Circunference
+constructor	parabola.js	/^	constructor(h, k, p, orientation) {$/;"	m	class:Parabola
+container	circunference.js	/^var container = document.getElementsByClassName("container")[0];$/;"	v
+container	parabola.js	/^var container = document.getElementsByClassName("container")[0];$/;"	v
+generalToOrdinaryLatexStrings	circunference.js	/^	generalToOrdinaryLatexStrings() {$/;"	m	class:Circunference
+getCenter	circunference.js	/^	getCenter(){$/;"	m	class:Circunference
+getDir	parabola.js	/^	getDir() {$/;"	m	class:Parabola
+getFocus	parabola.js	/^	getFocus() {$/;"	m	class:Parabola
+getLatusRectum	parabola.js	/^	getLatusRectum() {$/;"	m	class:Parabola
+getOrientation	parabola.js	/^	getOrientation() {$/;"	m	class:Parabola
+getRadius	circunference.js	/^	getRadius(){$/;"	m	class:Circunference
+getVertex	parabola.js	/^	getVertex(){$/;"	m	class:Parabola
+intermediateSteps	circunference.js	/^	intermediateSteps() {$/;"	m	class:Circunference
+myCircle	circunference.js	/^myCircle = new Circunference(1,-3,5);$/;"	v
+myParabola	parabola.js	/^myParabola = new Parabola(1,-3, 2 ,"up");$/;"	v
+navbarSupportedContent	circunferenciaordinaria.html	/^		<div class="collapse navbar-collapse" id="navbarSupportedContent">$/;"	I
+navbarSupportedContent	ejercicios.html	/^		<div class="collapse navbar-collapse" id="navbarSupportedContent">$/;"	I
+navbarSupportedContent	index.html	/^		<div class="collapse navbar-collapse" id="navbarSupportedContent">$/;"	I
+navbarSupportedContent	parabola.html	/^		<div class="collapse navbar-collapse" id="navbarSupportedContent">$/;"	I
+navbarSupportedContent	pdfs.html	/^		<div class="collapse navbar-collapse" id="navbarSupportedContent">$/;"	I
+navbarSupportedContent	videos.html	/^		<div class="collapse navbar-collapse" id="navbarSupportedContent">$/;"	I
+textNode	circunference.js	/^var textNode = document.createTextNode("\\\\[" + myCircle.toStringOrdinaryLatex() + "\\\\]");$/;"	v
+textNode	parabola.js	/^var textNode = document.createTextNode("\\\\[" + myParabola.toStringOrdinaryLatex() + "\\\\]");$/;"	v
+toStringGeneralLatex	circunference.js	/^	toStringGeneralLatex() {$/;"	m	class:Circunference
+toStringGeneralLatex	parabola.js	/^	toStringGeneralLatex() {$/;"	m	class:Parabola
+toStringOrdinaryLatex	circunference.js	/^	toStringOrdinaryLatex() {$/;"	m	class:Circunference
+toStringOrdinaryLatex	parabola.js	/^	toStringOrdinaryLatex() {$/;"	m	class:Parabola
